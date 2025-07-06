@@ -16,7 +16,7 @@
 
 ## 🌟 Features
 
-The goal of this book is to create your own end-to-end LLM-based system using best practices:
+-The goal of this book is to create your own end-to-end LLM-based system using best practices:
 
 - 📝 Data collection & generation
 - 🔄 LLM training pipeline
